@@ -5,12 +5,10 @@ class Introduction:
 		name = Thribhuvan Gupta S
 		role = Student
 		hometown = (Ballari, Karnataka, India)
-		skills = {'Programming':['C','C++','Python','HTML+CSS',\
-					'SQL','Java']}
+		skills = {'Programming':['C','C++','Python','HTML+CSS','SQL','Java']}
 		internships_exp = ['Research Intern','Web Development Intern']
 	class Meta:
-		hobbies = ['Origami','Reading Tech articles',\
-						'PC Building','Photography','Cooking','Gaming']
+		hobbies = ['Origami','Reading Tech articles','PC Building','Photography','Cooking','Gaming']
 ```
 #### I am a Student :mortar_board:, highly enthusiastic towards Deep Learning and Linux :smile:, massive fan of high computation power :yum: and multi-processing extravaganza :grin:!
 I love C/C++ programming for it's remarkable control over the system :muscle: (and also the amazing execution speeds :heart_eyes: ) and always rely on Python :snake: for rapid research and proto-typing :fire:. 
