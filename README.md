@@ -28,6 +28,7 @@ I love C/C++ programming for it's remarkable control over the system :muscle: (a
 	<a href="https://www.linkedin.com/in/thribhuvan-gupta-s-08642a177/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 	<a href="https://www.instagram.com/erakrit_9212/"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=Instagram" alt="Instagram"></a>
 	<a href="https://twitter.com/thribhuvangupta"><img src="https://img.shields.io/badge/twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a>
+	<a href="https://www.teacheron.com/tutor-profile/1Vif?r=1Vif" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 120px !important; height: 52px !important"></a>
 </p>
 
 
