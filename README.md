@@ -20,6 +20,7 @@ I love C/C++ programming for it's remarkable control over the system :muscle: (a
  - [X] Pyclustering and Scikit-learn for rapid testing
  - [X] Server deployment using Amazon EC2 and CI/CD using CodePipeline
  - [X] Version control and team management using GitHubFlow & GitFlow
+ - [X] Real-time video processing using CUDA
 
 > Have won first prize in **OnLoad 2.0** a 36-hour hackathon held at VVCE, Mysore along with my teammates <a href="https://github.com/kalpanmukherjee">@kalpanmukherjee</a> (our **ML Expert**) and <a href="https://github.com/irajeshegde">@irajeshegde</a> (**Our man at the Front-End**)
 <p align="center"> Connect to Me Via </p> 
