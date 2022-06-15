@@ -2,13 +2,15 @@
 ```python
 class Introduction:
 	def Bio(self):
-		name = Thribhuvan Gupta S
-		role = Student
-		hometown = (Ballari, Karnataka, India)
-		skills = {'Programming':['C','C++','Python','HTML+CSS','SQL','Java']}
+		name = "Thribhuvan Gupta S"
+		role = "Research Associate @ Philips Research"
+		hometown = ("Ballari", "Karnataka", "India")
+		skills = {'Programming Languages':['C','C++','Python','HTML', 'CSS','SQL','Java', 'JavaScript', 'TypeScript'],
+			  'Frameworks & Libraries': ['OpenCV', 'CUDA', 'TensorRT', 'OpenVINO', 'Django', 'Django-Rest-Framework', 
+			  			    'Angular', 'Qt', 'PyQt', 'Firebase', 'NodeJS', 'ExpressJS']}
 		internships_exp = ['Research Intern','Web Development Intern']
 	class Meta:
-		hobbies = ['Origami','Reading Tech articles','PC Building','Photography','Cooking','Gaming']
+		hobbies = ['Origami','Reading Tech articles','PC Building','Photography','Cooking', 'Swimming', 'Gaming']
 ```
 #### I am a Student :mortar_board:, highly enthusiastic towards Deep Learning and Linux :smile:, massive fan of high computation power :yum: and multi-processing extravaganza :grin:!
 I love C/C++ programming for it's remarkable control over the system :muscle: (and also the amazing execution speeds :heart_eyes: ) and always rely on Python :snake: for rapid research and proto-typing :fire:. 
@@ -22,7 +24,7 @@ I love C/C++ programming for it's remarkable control over the system :muscle: (a
  - [X] Version control and team management using GitHubFlow & GitFlow
  - [X] Real-time video processing using CUDA
 
-> Have won first prize in **OnLoad 2.0** a 36-hour hackathon held at VVCE, Mysore along with my teammates <a href="https://github.com/kalpanmukherjee">@kalpanmukherjee</a> (our **ML Expert**) and <a href="https://github.com/irajeshegde">@irajeshegde</a> (**Our man at the Front-End**)
+> Won first prize in **OnLoad 2.0** a 36-hour hackathon held at VVCE, Mysore along with my teammates <a href="https://github.com/kalpanmukherjee">@kalpanmukherjee</a> (our **ML Expert**) and <a href="https://github.com/irajeshegde">@irajeshegde</a> (**Our man at the Front-End**)
 <p align="center"> Connect to Me Via </p> 
 <p align="center">
 	<a href="https://github.com/thribhuvanguptas"><img src="https://img.shields.io/github/followers/thribhuvanguptas.svg?label=GitHub&style=social" alt="GitHub"></a>
