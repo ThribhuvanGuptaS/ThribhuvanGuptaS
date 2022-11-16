@@ -12,7 +12,7 @@ class Introduction:
 	class Meta:
 		hobbies = ['Origami','Reading Tech articles','PC Building','Photography','Cooking', 'Swimming', 'Gaming']
 ```
-#### I am a Student :mortar_board:, highly enthusiastic towards Deep Learning and Linux :smile:, massive fan of high computation power :yum: and multi-processing extravaganza :grin:!
+#### I am highly enthusiastic towards Deep Learning and Linux :smile:, massive fan of high computation power :yum: and multi-processing extravaganza :grin:!
 I love C/C++ programming for it's remarkable control over the system :muscle: (and also the amazing execution speeds :heart_eyes: ) and always rely on Python :snake: for rapid research and proto-typing :fire:. 
 
  - [X] Deep Learning using Tensorflow and Keras
@@ -23,6 +23,8 @@ I love C/C++ programming for it's remarkable control over the system :muscle: (a
  - [X] Server deployment using Amazon EC2 and CI/CD using CodePipeline
  - [X] Version control and team management using GitHubFlow & GitFlow
  - [X] Real-time video processing using CUDA
+ - [X] Web development using Angular and NodeJs
+ - [X] TensorRT for faster inference in C++
 
 > Won first prize in **OnLoad 2.0** a 36-hour hackathon held at VVCE, Mysore along with my teammates <a href="https://github.com/kalpanmukherjee">@kalpanmukherjee</a> (our **ML Expert**) and <a href="https://github.com/irajeshegde">@irajeshegde</a> (**Our man at the Front-End**)
 <p align="center"> Connect to Me Via </p> 
