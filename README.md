@@ -1,4 +1,4 @@
-## Hey!:wave: Here's a Brief Introduction about me! :smile:
+## Hey! :wave: Here's a Brief Introduction about me! :smile:
 ```python
 class Introduction:
 	def Bio(self):
